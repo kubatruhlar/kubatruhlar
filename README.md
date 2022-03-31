@@ -1,3 +1,3 @@
 ## @kubatruhlar
 
-Ahoj, I'm Jakub—a software developer from Prague.
+Ahoj, I'm Jakub—a software engineer from Prague.
